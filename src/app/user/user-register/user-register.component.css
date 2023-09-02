@@ -1,0 +1,7 @@
+/* css class valid from */
+.ng-valid .ng-touched{
+  border-color: red;
+}
+  .error-block{
+   color: red;
+  }
